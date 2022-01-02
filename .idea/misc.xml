@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/sindaabdaoui/AndroidStudioProjects/MyFood2/app/src/main/res/drawable/add_new.xml" value="0.2703125" />
+        <entry key="..\:/Users/sindaabdaoui/AndroidStudioProjects/MyFood2/app/src/main/res/drawable/rounded.xml" value="0.264" />
+        <entry key="..\:/Users/sindaabdaoui/AndroidStudioProjects/MyFood2/app/src/main/res/layout/activity_ajout_restaurant.xml" value="0.19675925925925927" />
+        <entry key="..\:/Users/sindaabdaoui/AndroidStudioProjects/MyFood2/app/src/main/res/layout/activity_list_restaurant.xml" value="0.536" />
+        <entry key="..\:/Users/sindaabdaoui/AndroidStudioProjects/MyFood2/app/src/main/res/layout/activity_localisation.xml" value="0.17374517374517376" />
+        <entry key="..\:/Users/sindaabdaoui/AndroidStudioProjects/MyFood2/app/src/main/res/layout/activity_login.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/sindaabdaoui/AndroidStudioProjects/MyFood2/app/src/main/res/layout/activity_main.xml" value="0.4" />
+        <entry key="..\:/Users/sindaabdaoui/AndroidStudioProjects/MyFood2/app/src/main/res/layout/activity_register.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/sindaabdaoui/AndroidStudioProjects/MyFood2/app/src/main/res/layout/main_item.xml" value="0.6" />
+        <entry key="..\:/Users/sindaabdaoui/AndroidStudioProjects/MyFood2/app/src/main/res/layout/update_res.xml" value="0.264" />
+        <entry key="..\:/Users/sindaabdaoui/AndroidStudioProjects/MyFood2/app/src/main/res/menu/logout.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/sindaabdaoui/AndroidStudioProjects/MyFood2/app/src/main/res/menu/menu2.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/sindaabdaoui/AndroidStudioProjects/MyFood2/app/src/main/res/menu/search.xml" value="0.4" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
